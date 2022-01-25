@@ -1,0 +1,151 @@
+.image-jeep{
+    background-image: url(../Imagenes/Clientes/jeep_auto_x2_colored.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50em;
+    width: 100%;
+    
+}
+
+.image-ram{
+    background-image: url(../Imagenes/Clientes/toyonegra.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50em;
+    width: 100%;
+    
+}
+
+.image-red{
+    background-image: url(../Imagenes/Logos/redess2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30em;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.image-auto{
+    background-image: url(../Imagenes/Clientes/ranch_auto_x2_toned.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    height: 50em;
+    width: 100%;
+}
+
+.image-prim{
+    background-image: url(../Imagenes/Logos/lubri2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    
+}
+
+.image-map{
+    background-image: url(../Imagenes/Logos/fondomapa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    
+    
+}
+
+.image-mecanico{
+    width: 350px;
+}
+
+.img-redes{
+    width: 70px;
+}
+
+.fs5{
+    font-size: 50px;
+}
+
+.fs6{
+    font-size: 17px;
+}
+
+.fs7{
+    font-size: 15px;
+}
+
+@media (max-width: 500px) { 
+    .image-red{
+        background-image: url(../Imagenes/Logos/redess2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+        width: 100%;
+        background-attachment: fixed;
+
+
+    }
+
+    .image-mecanico{
+        width: 250px;
+    }
+
+    .img-redes{
+        width: 50px;
+    }
+   
+}
+
+@media (max-width: 330px) { 
+    .image-red{
+        background-image: url(../Imagenes/Logos/redess2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+        width: 100%;
+        background-attachment: fixed;
+
+
+    }
+
+    .img-redes{
+        width: 50px;
+    }
+
+    .image-mecanico{
+        width: 200px;
+    }
+
+    .image-red{
+        background-image: url(../Imagenes/Logos/redess2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 130vh;
+        width: 100%;
+        background-attachment: fixed;
+    }
+
+    .image-map{
+        background-image: url(../Imagenes/Logos/fondomapa.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 150vh;
+        width: 100%;
+        
+        
+    }
+
+
+   
+}

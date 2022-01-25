@@ -1,0 +1,15 @@
+
+@media (max-width: 500px) { 
+    .image-red{
+        background-image: url(../Imagenes/Logos/redess2.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+        width: 100%;
+        background-attachment: fixed;
+    }
+   
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

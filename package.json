@@ -1,0 +1,24 @@
+{
+  "name": "lubricentro",
+  "version": "1.0.0",
+  "description": "https://juanmah98.github.io/Lubri/",
+  "main": "index.js",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.1.0"
+  },
+  "scripts": {
+    "build": "purgecss --css sass/custom.css --content index.html --content html/index.html -o sass/custom.css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmah98/Lubri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmah98/Lubri/issues"
+  },
+  "homepage": "https://github.com/juanmah98/Lubri#readme"
+}
